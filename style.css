@@ -1,0 +1,34 @@
+* {
+    margin:0;
+    padding: 0;;
+}
+
+body {
+    color : #f1f1f1;
+    background: #333;
+    font-size: 1.2em;
+}
+
+#play {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+tr:nth-child(2){
+    background-color: rgb(179, 106, 46);
+    font-size: 1.2em;
+    padding:5px;
+  }
+
+table {
+    background: rgb(156, 85, 43);
+}
+
+/* #annoncecb {
+    display:none;
+} */
+
+/* .choixplayers {
+    display:none;
+} */
+
